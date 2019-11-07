@@ -1,0 +1,2 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdminLayout.master.cs" Inherits="IWEIT.AdminLayout" %>
+
